@@ -1,0 +1,21 @@
+
+Modo de juego:
+
+- Objetivo: hacer la palabra OSO en horizontal, vertical o diagonal.
+- En cada turno se puede escribir O o S en cualquier casilla libre.
+- Si se hace la palabra OSO se repite turno.
+- Se pueden utilizar palabras ya usadas para realizar nuevas.
+- El juego termina cuando el tablero se llena.
+
+
+Reglas:
+
+- En cada turno una unica letra.
+- No se pueden cambiar o sobreescribir letras del tablero.
+
+
+Niveles de Juego:
+
+- Facil
+- Medio
+- Dificil
